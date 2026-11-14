@@ -1,0 +1,10 @@
+LiteDownloader/
+├── .github/workflows/build.yml
+├── build.gradle
+├── settings.gradle
+└── app/
+    ├── build.gradle
+    └── src/main/
+        ├── AndroidManifest.xml
+        ├── java/com/lite/downloader/MainActivity.kt
+        └── res/layout/activity_main.xml
